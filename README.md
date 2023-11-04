@@ -29,7 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="." height="30" width="40" /></a>
+<a href="https://dev.to/manoj4724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="manoj4724" height="30" width="40" /></a>
 <a href="https://twitter.com/dmanoj4724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dmanoj4724" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/d-manoj-106a7b218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/d-manoj-106a7b218/" height="30" width="40" /></a>
 <a href="https://instagram.com/manojd6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manojd6" height="30" width="40" /></a>
