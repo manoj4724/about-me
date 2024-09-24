@@ -19,7 +19,8 @@
 
 - 📫 How to reach me **manojproffo@gmail.com**
 
-- 📄 Know about my experiences [https://manoj4724.github.io/resume/](https://manoj4724.github.io/resume/)
+- 📄 Know about my experiences [Uploading D.manoj resume.pdf…]()
+
 
 - ⚡ Fun fact **learn new**
 
